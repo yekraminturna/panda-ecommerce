@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 100px;
+   margin-bottom: 100px;
 }
 .bg-color{
     background-color: #fceae8;
@@ -8,6 +8,7 @@
 
 .carousel-item{
     padding: 10px 20px;
+
 }
 .amount{
     color: #ff136f;
@@ -21,4 +22,53 @@
     cursor: pointer;
      
 }
+
+    
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.cat-1{
+    background-color: thistle;
+    
+}
+.cat-2{
+    background-color: skyblue;
+    
+
+}
+.cat-3{
+    background-color: magenta;
+    
+}
+.catagories h1{
+    color: white;
+
+}
+.catagories img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
+
+
+
+
+
 
